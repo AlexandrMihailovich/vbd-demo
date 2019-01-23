@@ -1,5 +1,7 @@
 # vbd-demo
 
+[`Demo`](https://alexandrmihailovich.github.io/vbd-demo/dist/)
+
 ## Project setup
 ```
 npm install
